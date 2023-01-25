@@ -1,4 +1,3 @@
-#Consultoria para voz y voto de AR
 #Elias chavarria-Mora
 #main code
 
